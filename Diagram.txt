@@ -1,0 +1,2 @@
+Client <---------> Tunnel Entry <----------> Tunnel Exit <---------> Server
+           UDP      ("Client")      HTTP      ("Server")     UDP
